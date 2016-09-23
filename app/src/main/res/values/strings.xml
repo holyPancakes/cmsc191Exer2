@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Exer2</string>
+    <string-array name="list_values">
+        <item>McDo</item>
+        <item>El Burrito</item>
+        <item>Chowking</item>
+        <item>Dainty Gourmet Bites</item>
+        <item>Black and Brew</item>
+        <item>Bugong</item>
+        <item>We Deliver</item>
+        <item>KFC</item>
+        <item>Doner Dorum</item>
+        <item>High Ground</item>
+        <item>Nanot’s</item>
+        <item>Nang Bob’s</item>
+        <item>Pizza Pop</item>
+        <item>PakWing</item>
+        <item>Daniela’s</item>
+        <item>Cel’s</item>
+        <item>Ellen’s Fried Chicken</item>
+        <item>Phuong</item>
+        <item>Ken’s Take Out</item>
+        <item>Baan Thai</item>
+        <item>Apung Piping</item>
+        <item>Bonito’s</item>
+        <item>Copacobana</item>
+        <item>Ludy’s</item>
+        <item>Stable</item>
+        <item>Kim Bop</item>
+        <item>Bon Appetea</item>
+        <item>Hanbok</item>
+        <item>Carne Frio</item>
+        <item>2nd Floor Diner</item>
+        <item>Chino’s</item>
+        <item>Vat Cave</item>
+        <item>Parduch</item>
+        <item>Parduch Extension</item>
+        <item>Siomai Tabenasai</item>
+        <item>Papu’s Siomai</item>
+        <item>Hotspatz</item>
+        <item>Sizzler’s</item>
+        <item>Selina’s</item>
+        <item>Big B’s</item>
+        <item>Rav’s Sizzlers</item>
+        <item>Entablado</item>
+        <item>Piknikan</item>
+        <item>Illustrado’s</item>
+        <item>Doy Meals</item>
+        <item>Chicken Universe</item>
+        <item>Tresto</item>
+        <item>Others</item>
+        <item>Big D’s</item>
+        <item>Uncle Jet’s</item>
+        <item>Dhenzmers</item>
+        <item>Bentelog</item>
+        <item>Nicdao</item>
+        <item>Red Room</item>
+        <item>Cadapan’s</item>
+        <item>Master Siomai</item>
+        <item>Faustina’s</item>
+        <item>Big Star</item>
+        <item>Beeyanka’s</item>
+        <item>Melville’s</item>
+        <item>Jange’s</item>
+        <item>Big Belly’s</item>
+        <item>Trese Siyete</item>
+        <item>Kapitan Kanin</item>
+        <item>Cocina</item>
+        <item>Kaijou</item>
+        <item>Salad Country</item>
+        <item>Horacio’s</item>
+        <item>7-11</item>
+        <item>Ministop</item>
+        <item>FC (YMCA)</item>
+        <item>Max’s</item>
+        <item>Seoul Kitchen</item>
+        <item>Spice Jar</item>
+        <item>Go BALD</item>
+        <item>Jollibee</item>
+        <item>Venice Italian</item>
+        <item>Cravery</item>
+        <item>Chelsea’s (Anest)</item>
+        <item>IC’s</item>
+        <item>Jacques</item>
+        <item>Hanarose</item>
+        <item>Holland Tulips</item>
+        <item>Chunkee and Bubbles</item>
+        <item>Mineski</item>
+        <item>Casa Bulgogi</item>
+        <item>IRRI Canteen</item>
+        <item>University Cafeteria</item>
+        <item>PhySci Canteen</item>
+        <item>Ginhawa Craft Studio</item>
+        <item>Mang Toto’s</item>
+        <item>Ate Tinna’s Eatery</item>
+        <item>Axl’s (Dating Sulyaw)</item>
+        <item>Eat-Sumo</item>
+        <item>Serendipity Tea Bar</item>
+        <item>Mr. Liempo</item>
+        <item>Andoks</item>
+        <item>Cholo’s</item>
+        <item>Agapita Lomihan</item>
+        <item>Herb Republic</item>
+        <item>Mang Inasal</item>
+        <item>Greenwich</item>
+        <item>Pizza Hut</item>
+        <item>Mhel’s Probenan</item>
+        <item>Vega Kwek-Kwek</item>
+        <item>Ferd’s Grill</item>
+    </string-array>
+</resources>
